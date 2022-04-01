@@ -1,2 +1,2 @@
-# 2022 Freshman Class Project
+# 2022 freshman class project
 It is a snake, that moves.
